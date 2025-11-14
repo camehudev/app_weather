@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.tela_principal{
+  display: flex;
+  width: 100dvw;
+  height: 100dvh;
+  justify-content: center;
+  background-color: rgb(230, 164, 21);
+}
